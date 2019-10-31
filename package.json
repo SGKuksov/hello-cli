@@ -1,0 +1,14 @@
+{
+  "name": "my-hello-world-cli",
+  "version": "1.0.0",
+  "description": "Hello CLI",
+  "main": "index.js",
+  "bin": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SGKuksov",
+  "license": "MIT",
+  "man" : "./man/doc.1"
+}
