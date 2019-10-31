@@ -10,5 +10,8 @@
   "keywords": [],
   "author": "SGKuksov",
   "license": "MIT",
-  "man" : "./man/doc.1"
+  "man": "./man/doc.1",
+  "devDependencies": {
+    "@types/node": "^12.12.3"
+  }
 }
